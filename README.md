@@ -7,11 +7,11 @@ teenpatti.angular
 
 To Run
 ================
-Open Git bash
-- Goto /code folder
+
+- Goto /code folder ,right click and git bash here
 - npm install
-- set mongo db
-- http://docs.mongodb.org/manual/tutorial/install-mongodb-on-windows/
+- Install mongo db
+- Refer to install Mongo DB http://docs.mongodb.org/manual/tutorial/install-mongodb-on-windows/
 - start mongodb
 - modify your mongodb configration in /code/lib/dal.js
 - Edit rundb.bat
@@ -19,6 +19,6 @@ Open Git bash
 - run rundb.bat file
 - Goto code folder
 - execute node app.js
-
+-Go to browser localport:3000
 Enjoy the game!!!
 ========

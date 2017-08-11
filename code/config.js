@@ -1,9 +1,9 @@
 var config={
 	database:{
 		mode:'local', // can be local or remote
-		host:'',
-		port:0,
-		dbname:'',
+		host:'localhost',
+		port:27017,
+		dbname:'teenpatti',
 		username:'',
 		password:''
 	}
